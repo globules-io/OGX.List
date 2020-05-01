@@ -5,6 +5,9 @@
 > Check out the [wiki](https://github.com/globules-io/OGX.List/wiki)
 
 #### NEWS
+> 2020-05-01
+Added unset method, version 1.1.0
+
 > 2019-10-25
 Added clear, unique methods
 
