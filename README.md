@@ -5,6 +5,9 @@
 > Check out the [wiki](https://github.com/globules-io/OGX.List/wiki)
 
 #### NEWS
+> 2020-05-02
+Added support to combined indexes, version 1.2.0
+
 > 2020-05-01
 Added unset method, version 1.1.0
 
