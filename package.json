@@ -1,13 +1,14 @@
 {
   "name": "@globules-io/ogx.list",
-  "version": "1.2.2",
+  "version": "1.2.4",
   "description": "OGX.List out of OGX.JS",
   "dependencies": {
-	
+    "fs": "0.0.1-security",
+    "moment": "^2.24.0"
   },
-  "main": "",
+  "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"	
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
@@ -15,7 +16,7 @@
   },
   "keywords": [
     "javascript",
-	"list"
+    "list"
   ],
   "author": "globules.io",
   "license": "Apache-2.0",
