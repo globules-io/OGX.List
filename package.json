@@ -1,6 +1,6 @@
 {
   "name": "@globules-io/ogx.list",
-  "version": "1.3.6",
+  "version": "1.3.8",
   "description": "OGX.List out of OGX.JS",
   "dependencies": {
     "fs": "0.0.1-security",
