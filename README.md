@@ -1,6 +1,6 @@
 # OGX.List
 
-> List class out of OGX.JS as stand alone
+List class out of OGX.JS as stand alone
 
 ### For the web
 Download minifyed build from releases section
