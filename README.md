@@ -2,10 +2,10 @@
 
 > List class out of OGX.JS as stand alone
 
-## For the web
+### For the web
 Download minifyed build from releases section
 
-## For Node.jS
+### For Node.jS
 npm install @globules-io/ogx.list
 const OGX = require('@globules-io/ogx.list');
 const list = OGX.List();
